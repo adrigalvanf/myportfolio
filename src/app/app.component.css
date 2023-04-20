@@ -1,0 +1,49 @@
+#primero{
+    background-color: #6610f2;
+    height: 50px;
+    text-align: right;
+}
+
+#primero button{
+    text-align: right;
+    position:relative;
+    top: 20%;   
+}
+
+
+.container{
+    background-color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    
+}
+.container #uno li{
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 10%;
+    padding-left: 10px;
+}
+.container img{
+    position:static;
+    margin-top: -15%;
+    margin-left: -10%;
+}
+
+#sub{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 10%;
+
+}
+#nombre{
+    color: #320679;
+    font-size: larger;
+}
+.container #dos li{
+    display:block;
+}
+
+#cv{
+    background-color: #d6c6ef;
+}
+

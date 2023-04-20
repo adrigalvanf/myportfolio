@@ -1,0 +1,19 @@
+img{
+    height: 40px;
+    width: 40px;
+}
+h1{
+    margin-top: 5%;
+    margin-left: 25%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white;
+    
+}
+#dos{
+    background-color: rgb(37, 13, 60);
+    margin-left: 0%;
+
+}
+h3{
+    color: black;
+}
